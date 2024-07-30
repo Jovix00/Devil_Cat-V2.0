@@ -10,19 +10,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348133286181"
-global.ownername = "Lord No Name"
+global.ownernomer = "256708217427"
+global.ownername = "Ash tech"
 global.ytname = "Lord No Name"
 global.socialm = "wa.me/2348133286181"
-global.location = "NIGERIA"
+global.location = "Uganda"
 
-global.ownernumber = '2348133286181'  //creator number
-global.ownername = 'Lord No Name' //owner name
+global.ownernumber = '256708217427'  //creator number
+global.ownername = 'Ash tech' //owner name
 global.botname = 'Devil_Cat-V2.0 ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'No Name\n\nContact: +2348133286181'
+global.author = 'Ash\n\nContact: +256708217427'
 
 //console view/theme
 global.themeemoji = '🤖'
@@ -59,10 +59,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done ! At the Speed of Sound',
-    prem: 'This feature can be used by Lord No Name or premium user only',
-    admin: 'This feature can be used by Lord No Name or admin only',
+    prem: 'This feature can be used by Ash tech or premium user only',
+    admin: 'This feature can be used by Ash tech or admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by Lord No Name or owner only',
+    owner: 'This feature can be used by Ash tech or owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
